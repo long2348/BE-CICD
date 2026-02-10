@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"errors: no test specified\" && exit 1"
+    "test": "echo \"errors: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author":"489",
   "license":"ISC",
